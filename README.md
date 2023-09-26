@@ -1,7 +1,7 @@
 # Testes de Caixa Branca
 
 ## Descrição
-A código foi desenvolvida usando o Apache NetBeans IDE 16, na linguagem java. E o objetivo é análisar o funcionamento do código com teste de caixa branca.
+O código foi desenvolvida usando o Apache NetBeans IDE 16, na linguagem java. E o objetivo é análisar o funcionamento do código com teste de caixa branca.
 
 ## Código
 ![image](https://github.com/yVinii/CaixaBranca/assets/117307556/0f4f6ee4-1d52-4ebb-abd3-a9f1a54cef18)
