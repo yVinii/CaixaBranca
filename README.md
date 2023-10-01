@@ -1,7 +1,7 @@
 # Caixa Branca
 
 ## Descrição
-O código foi desenvolvido usando o Apache NetBeans IDE 16, na linguagem java. E o objetivo é análisar o funcionamento do código com teste de caixa branca.
+O código foi desenvolvido usando o Apache NetBeans IDE 16, na linguagem java. E o objetivo é análisar o funcionamento do código com um fluxo grafo.
 
 ## Código
 ![image](https://github.com/yVinii/CaixaBranca/assets/117307556/6f13fdfa-dd7c-49a7-a693-43e95713880e)
@@ -22,5 +22,5 @@ Segundo o grafo de fluxo feito, se fizermos a conta para obter a complexidade te
 ## Publicação
 https://github.com/yVinii/CaixaBranca
 
-## Última atualização 21/09/2023
+## Última atualização 01/10/2023
 
